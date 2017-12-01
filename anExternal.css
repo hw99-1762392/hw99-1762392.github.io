@@ -1,0 +1,29 @@
+#top{
+    Width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    Border:solid 6px orange;
+    border-radius:20px;
+    text-align: center;
+}
+
+#para1{
+    font-family: "Courier New";
+    font-style: normal;
+
+}
+
+#para2{
+    font-family: "Times New Roman";
+    font-style: italic;
+    font-size: 30px;
+}
+
+img{
+    max-width: 300px;
+    max-height: 250px;
+    width: auto;
+    height: auto;
+    float: left;
+}
