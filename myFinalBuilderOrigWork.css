@@ -1,0 +1,87 @@
+#Header{
+    Width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    Border: solid 15px rgba(0, 17, 255, 0.178);
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgba(0, 255, 255, 0.466);
+}
+
+#Header h1{
+     font-size: 60px;
+     font-family: Arial, Helvetica, sans-serif;
+     color: rgb(0, 12, 66);
+     font-weight: bold;
+}
+    
+
+#Left{
+    width: 300px;
+    height: 900px;
+    margin-left: auto;
+    margin-Right: auto;
+    border: solid 8px rgb(0, 0, 0);
+    float: left;
+    background-color: rgba(255, 255, 255, 0.466);
+}
+
+#Right{
+    Width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    Border:solid 8px rgb(0, 0, 0);
+    border-radius: 5px;
+    float: right;
+    text-align: left;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    background-color: rgba(255, 255, 255, 0.438);
+}
+
+#Right h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+#Right img{
+    width: 50px;
+    height: 50px;
+}
+
+#Content{
+    Width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    Border:solid 8px rgb(0, 0, 0);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(219, 235, 0, 0.404);
+}
+
+#Footer{
+    Border:solid 8px rgb(0, 0, 0);
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgba(139, 65, 213, 0.479);
+}
+
+body{
+    background-image: url('bg.png')
+}
+
+p{
+    font-family: "Arial";
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+a{
+    color: rgb(174, 0, 255);
+    font-weight: bold;
+    font-size: 24px;
+}
